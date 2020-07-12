@@ -1,7 +1,7 @@
 LAST PROTOTYPE HERE:
 https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
 
-## CHAPTERS:
+## CHAPTERS (follow R&D step by step):
 
 #1 https://medium.com/@lips_social/lips-1-21b3c8ae9f6e
 
@@ -9,7 +9,7 @@ https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
 
 #3 https://medium.com/@lips_social/lips-3-27b3ccd6b391
 
-
+more chapters here: https://medium.com/@lips_social
 
 
 ## Available Scripts
