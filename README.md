@@ -1,3 +1,5 @@
+## LIPS - The search for a decentralized social network
+
 LAST PROTOTYPE HERE:
 :lips: LIPS https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
 
