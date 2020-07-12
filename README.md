@@ -1,5 +1,5 @@
 LAST PROTOTYPE HERE:
-:lips: https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
+:lips: LIPS https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
 
 ## CHAPTERS (follow R&D step by step):
 
